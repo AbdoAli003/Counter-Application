@@ -22,7 +22,7 @@ This is an Android application that includes a login interface, the username and
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/yourusername/counter-login-app.git](https://github.com/AbdoAli003/ubiquitous-broccoli.git)
+    git clone [https://github.com/AbdoAli003/Counter-Application.git](https://github.com/AbdoAli003/ubiquitous-broccoli.git)
     ```
 
 2. **Open the Project in Android Studio**:
